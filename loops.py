@@ -23,7 +23,7 @@
 
 #function in Loops
 def main():
-    number = get_number
+    number = get_number()
     meow(number)
 
 def get_number():
@@ -34,7 +34,7 @@ def get_number():
     return n
 
 
-def meow():
+def meow(n):
     for _ in range(n):
         print("meow")
 
