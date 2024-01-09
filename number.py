@@ -5,4 +5,6 @@ while True:
         print("x is not an integer")
     # Use of else statementto solve the NameError
     else:
-        print(f"x is {x}")
+        break
+
+print(f"x is {x}")
