@@ -15,5 +15,8 @@ DAILY PRACTICE OF PYTHON LANGUAGE
 # Libraries
 <They are files of code that other programmers have written and you can use them in your own program. It can be done through modules. A module is a library that have one or more fucntion/features built into it. The main purose of library or module is to encourage reusability of code. One can use these libraries through a keyword import.>
 
+# from
+<Is a keyword in python that allows you to import functions from a module but it allows a programer to be more specific than import alone. >
+
 
 
