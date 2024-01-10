@@ -18,5 +18,8 @@ DAILY PRACTICE OF PYTHON LANGUAGE
 # from
 <Is a keyword in python that allows you to import functions from a module but it allows a programer to be more specific/explicit than import alone. >
 
+# random.randint(a,b)
+<>
+
 
 
