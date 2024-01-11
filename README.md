@@ -19,7 +19,9 @@ DAILY PRACTICE OF PYTHON LANGUAGE
 <Is a keyword in python that allows you to import functions from a module but it allows a programer to be more specific/explicit than import alone. >
 
 # random.randint(a,b)
-<>
+
+# Statistics library
+<This module provides functions for calculating mathematical statistics of numeric data.>
 
 
 
