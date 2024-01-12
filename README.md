@@ -23,5 +23,8 @@ DAILY PRACTICE OF PYTHON LANGUAGE
 # Statistics library
 <This module provides functions for calculating mathematical statistics of numeric data.>
 
+# Packages
+<This module provides library that do not come with python. This can be archived through the keywaord pip.>
+
 
 
