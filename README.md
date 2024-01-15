@@ -26,5 +26,8 @@ DAILY PRACTICE OF PYTHON LANGUAGE
 # Packages
 <This module provides library that do not come with python. This can be archived through the keywaord pip.>
 
+# APIs 
+<Application Programming Interface. Using request keyword a programmer can make web requests and intergrate it with their own code.>
+
 
 
