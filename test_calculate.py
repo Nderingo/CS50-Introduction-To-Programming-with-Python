@@ -1,4 +1,3 @@
-
 from calculate import square
 
 
