@@ -21,3 +21,8 @@ with open("names.txt") as file:
 
 for name in sorted(names):
     print(f"hello, {name}")
+
+#Alternatively to read and sort a file
+with open("names.txt") as file:
+    for line in sorted(file):
+       print("hello,", line.rstrip())
