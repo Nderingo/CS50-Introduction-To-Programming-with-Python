@@ -19,10 +19,10 @@ with open("names.txt") as file:
        names.append(line.rstrip())
 
 
-for name in sorted(names):
+for name in sorted(names, reverse=True):
     print(f"hello, {name}")
 
 #Alternatively to read and sort a file
-with open("names.txt") as file:
-    for line in sorted(file):
-       print("hello,", line.rstrip())
+#with open("names.txt") as file:
+#    for line in sorted(file):
+#       print("hello,", line.rstrip())
