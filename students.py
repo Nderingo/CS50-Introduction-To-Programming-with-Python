@@ -1,4 +1,4 @@
 with open("students.csv") as file:
     for line in file:
-        row = line.rstrip().split(",")
-        print(f"{row[0]} is in {row[1]} for {row[2]}")
+        name, house, years = line.rstrip().split(",")
+        print(f"{name} is in {house} for {years}")
