@@ -11,7 +11,7 @@ students = []
 with open("students.csv") as file:
     reader = csv.reader(file)
     for row in reader:
-        students.append({"name: row[0]"}, "home: row[1]")
+        students.append({"name": row[0], "home": row[1]})
 #    for line in file:
 #        name, house = line.rstrip().split(",")
 #        student = {"name": name, "house": house}
