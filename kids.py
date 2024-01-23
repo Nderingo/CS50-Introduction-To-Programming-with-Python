@@ -5,5 +5,4 @@ home = input("Where is your home? ")
 
 with open("kids.csv", "a") as file:
     writer = csv.writer(file)
-    writer.writerow([home, name])
-    
+    writer.writerow([name, home])
